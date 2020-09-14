@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/indecisionfood/static/css/main.0a503839.chunk.css",
+    "main.js": "/indecisionfood/static/js/main.c9433a22.chunk.js",
+    "main.js.map": "/indecisionfood/static/js/main.c9433a22.chunk.js.map",
+    "runtime-main.js": "/indecisionfood/static/js/runtime-main.99b68217.js",
+    "runtime-main.js.map": "/indecisionfood/static/js/runtime-main.99b68217.js.map",
+    "static/js/2.430cd373.chunk.js": "/indecisionfood/static/js/2.430cd373.chunk.js",
+    "static/js/2.430cd373.chunk.js.map": "/indecisionfood/static/js/2.430cd373.chunk.js.map",
+    "index.html": "/indecisionfood/index.html",
+    "precache-manifest.13714bcad592aede0b432a23474256b3.js": "/indecisionfood/precache-manifest.13714bcad592aede0b432a23474256b3.js",
+    "service-worker.js": "/indecisionfood/service-worker.js",
+    "static/css/main.0a503839.chunk.css.map": "/indecisionfood/static/css/main.0a503839.chunk.css.map",
+    "static/js/2.430cd373.chunk.js.LICENSE.txt": "/indecisionfood/static/js/2.430cd373.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99b68217.js",
+    "static/js/2.430cd373.chunk.js",
+    "static/css/main.0a503839.chunk.css",
+    "static/js/main.c9433a22.chunk.js"
+  ]
+}
