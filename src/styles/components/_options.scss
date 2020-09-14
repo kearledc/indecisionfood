@@ -1,0 +1,25 @@
+.options__widget {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	background-color: $light;
+	padding: 0.6rem 0.6rem 0;
+	border-bottom: solid 0.6rem darken($light, 10%);
+}
+
+.options__widget-dark {
+	background-color: $dark;
+	border-bottom: solid 0.6rem darken($light, 10%);
+}
+
+.options__widget-title {
+	font-size: $m-size;
+	font-family: $monsterrat;
+	padding: 1.6rem;
+}
+
+.options__widget-body {
+	font-size: $m-size;
+	font-family: $monsterrat;
+	text-align: center;
+}

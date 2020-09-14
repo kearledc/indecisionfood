@@ -1,0 +1,25 @@
+.option {
+	width: 100%;
+	background-color: $light;
+	display: flex;
+	justify-content: space-between;
+	padding: 0 $s-size;
+	border-bottom: solid 0.3rem darken($light, 10%);
+}
+
+.option-dark {
+	background-color: $dark;
+}
+
+.option-text {
+	font-size: $l-size;
+	padding: 0.6rem;
+	font-family: $monsterrat;
+}
+
+.options__widget-body {
+	font-size: $m-size;
+	padding: $m-size;
+	font-family: $monsterrat;
+	text-transform: uppercase;
+}

@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+button {
+	cursor: pointer;
+}
+
+button:disabled {
+	cursor: default;
+}
+
+.dark-mode {
+	background-color: #000;
+	color: #fff;
+}
+
+.light-mode {
+	background-color: #fff;
+	color: #000;
+	transition: background-color 0.25s ease-out;
+}
