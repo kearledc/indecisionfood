@@ -19,12 +19,14 @@ button:disabled {
 .dark-mode {
   background-color: #000;
   color: #fff;
+  height: 100vh;
 }
 
 .light-mode {
   background-color: #fff;
   color: #000;
   transition: background-color 0.25s ease-out;
+  height: 100vh;
 }
 
 .add-form__container {
@@ -320,11 +322,6 @@ input:checked + .slider:before {
   padding: 3.2rem;
   text-align: center;
   font-family: "Monsterrat", sans-serif;
-}
-
-.modal-dark {
-  color: #fff !important;
-  background: #37474f !important;
 }
 
 .modal__title {

@@ -19,10 +19,12 @@ button:disabled {
 .dark-mode {
 	background-color: #000;
 	color: #fff;
+	height: 100vh;
 }
 
 .light-mode {
 	background-color: #fff;
 	color: #000;
 	transition: background-color 0.25s ease-out;
+	height: 100vh;
 }
