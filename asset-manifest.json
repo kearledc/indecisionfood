@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/indecisionfood/static/css/main.debeea5a.chunk.css",
+    "main.css": "/indecisionfood/static/css/main.366a7813.chunk.css",
     "main.js": "/indecisionfood/static/js/main.c9433a22.chunk.js",
     "main.js.map": "/indecisionfood/static/js/main.c9433a22.chunk.js.map",
     "runtime-main.js": "/indecisionfood/static/js/runtime-main.99b68217.js",
@@ -8,15 +8,15 @@
     "static/js/2.430cd373.chunk.js": "/indecisionfood/static/js/2.430cd373.chunk.js",
     "static/js/2.430cd373.chunk.js.map": "/indecisionfood/static/js/2.430cd373.chunk.js.map",
     "index.html": "/indecisionfood/index.html",
-    "precache-manifest.50264c7d0e3871476bb2e14ff74e46ec.js": "/indecisionfood/precache-manifest.50264c7d0e3871476bb2e14ff74e46ec.js",
+    "precache-manifest.ef7e36e9d0583572a42d6e48489d4ee3.js": "/indecisionfood/precache-manifest.ef7e36e9d0583572a42d6e48489d4ee3.js",
     "service-worker.js": "/indecisionfood/service-worker.js",
-    "static/css/main.debeea5a.chunk.css.map": "/indecisionfood/static/css/main.debeea5a.chunk.css.map",
+    "static/css/main.366a7813.chunk.css.map": "/indecisionfood/static/css/main.366a7813.chunk.css.map",
     "static/js/2.430cd373.chunk.js.LICENSE.txt": "/indecisionfood/static/js/2.430cd373.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.99b68217.js",
     "static/js/2.430cd373.chunk.js",
-    "static/css/main.debeea5a.chunk.css",
+    "static/css/main.366a7813.chunk.css",
     "static/js/main.c9433a22.chunk.js"
   ]
 }
