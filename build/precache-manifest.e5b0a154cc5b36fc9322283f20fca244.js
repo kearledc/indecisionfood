@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a916455a5e619d2210d40615b22b4a5",
+    "revision": "a59fa114ad358c26f1e63ff4e82d78d4",
     "url": "/indecisionfood/index.html"
   },
   {
-    "revision": "0f463d262ce7dd2d6629",
-    "url": "/indecisionfood/static/css/main.0a503839.chunk.css"
+    "revision": "46b18ccc191c37e386c4",
+    "url": "/indecisionfood/static/css/main.debeea5a.chunk.css"
   },
   {
     "revision": "6cad07ca5985dc778bfb",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indecisionfood/static/js/2.430cd373.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f463d262ce7dd2d6629",
+    "revision": "46b18ccc191c37e386c4",
     "url": "/indecisionfood/static/js/main.c9433a22.chunk.js"
   },
   {
